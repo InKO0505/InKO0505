@@ -2,11 +2,6 @@
   <img src="./assets/banner.svg" alt="Igor Zaitsev banner" width="100%" />
 </div>
 
-<h1 align="center">Igor Zaitsev</h1>
-<p align="center">
-  Infrastructure & Systems Engineer · Linux · DPDK / DPI · Ansible · Networking · Troubleshooting
-</p>
-
 <p align="center">
   <a href="mailto:id.zaitsev@gmail.com"><img src="https://img.shields.io/badge/Email-id.zaitsev%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://resume.zaitsev.workers.dev/"><img src="https://img.shields.io/badge/Resume-Open-238636?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
