@@ -79,7 +79,7 @@ My main interest is building and operating stable infrastructure: diagnosing inc
 ## Experience
 
 ### Infrastructure & Troubleshooting Engineer
-**7Generation** · Aug 2025 — Present
+**7Generation** · Aug 2025 - Present
 
 - Operating and supporting server infrastructure
 - Maintaining and monitoring DPI servers, including DPDK-related host/network setup
@@ -87,7 +87,7 @@ My main interest is building and operating stable infrastructure: diagnosing inc
 - Automating routine operational tasks with Ansible, Bash, and Python
 
 ### Information Security Engineering Intern
-**Kazakhstan Housing Company** · Jun 2025 — Jul 2025
+**Kazakhstan Housing Company** · Jun 2025 - Jul 2025
 
 - Worked with SOC and DLP-related workflows: alerts, classification, and reporting
 - Built and integrated a Docker-based log forwarding component
@@ -112,7 +112,7 @@ Instead of publishing internal repositories or NDA-bound material, I use GitHub 
 ## Education
 
 **Astana IT University**  
-BSc in Cybersecurity · 2023 — 2026
+BSc in Cybersecurity · 2023 - 2026
 
 - Protection of network infrastructure from cyber threats
 - Configuration of routers, switches, and firewalls
