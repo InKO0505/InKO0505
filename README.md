@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:id.zaitsev@gmail.com"><img src="https://img.shields.io/badge/Email-id.zaitsev%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://resume.zaitsev.workers.dev/"><img src="https://img.shields.io/badge/Resume-Open-238636?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="https://infrainko.me/"><img src="https://img.shields.io/badge/Resume-Open-238636?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
   <a href="https://github.com/InKO0505"><img src="https://img.shields.io/badge/GitHub-InKO0505-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
