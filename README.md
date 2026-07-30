@@ -130,7 +130,7 @@ Research project focused on runtime behavioral protection for mobile banking app
 ## Contact
 
 - Email: **id.zaitsev@gmail.com**
-- Resume: **resume.zaitsev.workers.dev**
+- Resume: **infrainko.me**
 - GitHub: **github.com/InKO0505**
 
 ---
